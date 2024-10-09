@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\bin\Debug\genericConstraints homework.exe.config
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\bin\Debug\genericConstraints homework.exe
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\bin\Debug\genericConstraints homework.pdb
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\obj\Debug\genericConstraints homework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\obj\Debug\genericConstraints homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\obj\Debug\genericConstraints homework.exe
+C:\Users\User\Desktop\genericConstraints homework\genericConstraints homework\obj\Debug\genericConstraints homework.pdb
